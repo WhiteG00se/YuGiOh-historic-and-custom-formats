@@ -1,4 +1,4 @@
-# [YuGiOh-historic-and-custom-formats.github.io](https://greygoosevx.github.io/YuGiOh-historic-and-custom-formats/)
+# [greygoosevx.github.io/YuGiOh-historic-and-custom-formats/](https://greygoosevx.github.io/YuGiOh-historic-and-custom-formats/)
 This project allows the user to play custom and historic YuGiOh formats
 
 To offer this, I use a google sheets table with all cards, that I created myself:
