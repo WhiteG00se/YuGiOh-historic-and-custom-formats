@@ -6,7 +6,7 @@ async function convertAndDownload() {
 	let passwords = getArrayFromInput('passwords')
 	let allowedCopies = getArrayFromInput('allowedCopies')
 
-	//if any of the arrays or listName is empty, alert the user
+	//if any of the arrays or listName is empty, return
 	if (cardTitles.length <= 1 || passwords.length <= 1 || allowedCopies.length <= 1 || listName == '') {
 		alert('Please fill out all fields')
 		return
